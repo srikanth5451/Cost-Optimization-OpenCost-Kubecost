@@ -14,3 +14,4 @@
 # 2022-05-09 - feat: Create budget alert system
 # 2022-01-10 - fix: Resolve metric collection
 # 2022-05-23 - fix: Patch pricing config
+# 2022-01-17 - feat: Add new cost dashboard
