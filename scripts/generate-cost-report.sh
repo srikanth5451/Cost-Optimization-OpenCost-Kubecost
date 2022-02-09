@@ -19,3 +19,4 @@ kubectl get --raw "/apis/cost.kubecost.com/v1/allocation?window=7d" > cost-repor
 # 2022-04-13 - chore: Update documentation
 # 2022-01-18 - fix: Resolve metric collection
 # 2022-01-28 - fix: Resolve metric collection
+# 2022-02-09 - chore: Update documentation
