@@ -8,3 +8,4 @@ kubectl get --raw "/apis/cost.kubecost.com/v1/allocation?window=7d" > cost-repor
 # 2022-04-14 - config: Refactor cost queries
 # 2022-03-30 - config: Refactor cost queries
 # 2022-05-30 - config: Adjust monitoring thresholds
+# 2022-02-24 - chore: Refactor cost queries
