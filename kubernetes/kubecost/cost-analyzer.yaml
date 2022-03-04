@@ -8,3 +8,4 @@ data:
     RAM: 0.01
     storage: 0.0001
 # 2022-03-18 - chore: Refactor cost queries
+# 2022-03-04 - docs: Adjust monitoring thresholds
