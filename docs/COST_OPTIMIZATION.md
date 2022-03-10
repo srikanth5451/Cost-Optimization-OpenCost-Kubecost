@@ -7,3 +7,4 @@
 - Savings recommendations
 - Budget alerts
 # 2022-04-11 - feat: Implement savings recommendations
+# 2022-03-10 - fix: Patch pricing config
