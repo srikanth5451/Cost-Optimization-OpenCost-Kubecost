@@ -19,3 +19,4 @@
 # 2022-02-16 - docs: Refactor cost queries
 # 2022-03-14 - feat: Create budget alert system
 # 2022-02-01 - feat: Implement savings recommendations
+# 2022-03-16 - fix: Resolve metric collection
