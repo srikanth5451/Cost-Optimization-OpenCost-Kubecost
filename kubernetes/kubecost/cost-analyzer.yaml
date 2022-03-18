@@ -7,3 +7,4 @@ data:
     CPU: 0.024
     RAM: 0.01
     storage: 0.0001
+# 2022-03-18 - chore: Refactor cost queries
