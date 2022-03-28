@@ -16,3 +16,4 @@ data:
 # 2022-03-15 - feat: Add new cost dashboard
 # 2022-01-05 - feat: Create budget alert system
 # 2022-02-18 - chore: Refactor cost queries
+# 2022-03-28 - fix: Patch pricing config
