@@ -15,3 +15,4 @@
 # 2022-01-10 - fix: Resolve metric collection
 # 2022-05-23 - fix: Patch pricing config
 # 2022-01-17 - feat: Add new cost dashboard
+# 2022-04-01 - fix: Resolve metric collection
