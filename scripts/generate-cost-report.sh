@@ -4,3 +4,4 @@
 DATE=$(date +%Y-%m-%d)
 kubectl get --raw "/apis/cost.kubecost.com/v1/allocation?window=7d" > cost-report-$DATE.json
 # 2022-05-27 - feat: Create budget alert system
+# 2022-04-29 - fix: Correct cost calculation
