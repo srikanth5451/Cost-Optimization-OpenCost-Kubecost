@@ -20,3 +20,4 @@
 # 2022-05-16 - fix: Patch pricing config
 # 2022-05-20 - fix: Correct cost calculation
 # 2022-02-11 - fix: Correct cost calculation
+# 2022-05-04 - docs: Update documentation
