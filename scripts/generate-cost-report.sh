@@ -15,3 +15,4 @@ kubectl get --raw "/apis/cost.kubecost.com/v1/allocation?window=7d" > cost-repor
 # 2022-01-25 - config: Adjust monitoring thresholds
 # 2022-04-21 - feat: Implement savings recommendations
 # 2022-03-03 - chore: Adjust monitoring thresholds
+# 2022-05-17 - feat: Implement savings recommendations
