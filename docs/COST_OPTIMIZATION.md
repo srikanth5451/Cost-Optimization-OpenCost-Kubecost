@@ -18,3 +18,4 @@
 # 2022-04-01 - fix: Resolve metric collection
 # 2022-02-22 - feat: Implement savings recommendations
 # 2022-05-16 - fix: Patch pricing config
+# 2022-05-20 - fix: Correct cost calculation
