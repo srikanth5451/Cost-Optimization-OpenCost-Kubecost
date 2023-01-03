@@ -1,0 +1,15 @@
+﻿name: Cost Alert
+on:
+  schedule:
+    - cron: "0 9 * * *"  # Daily at 9AM
+
+jobs:
+  alert:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Check cluster costs
+        run: |
+          ./scripts/cost-report.sh
+          # Add alert logic here
+# 2023-01-03 - chore: Cleanup old reports
