@@ -7,3 +7,4 @@ DATE=$(date +%Y-%m-%d)
 kubectl get --raw "/apis/cost.kubecost.com/v1/allocation?window=1d&aggregate=namespace&namespace=${NAMESPACE}" > cost-report-${DATE}.json
 # 2023-01-02 - config: Update storage pricing
 # 2023-01-02 - config: Update storage pricing
+# 2023-01-04 - chore: Cleanup old reports
