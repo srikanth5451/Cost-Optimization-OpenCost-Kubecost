@@ -3,3 +3,4 @@ kind: Namespace
 metadata:
   name: cost-monitoring
 # 2023-01-04 - chore: Update OpenCost version
+# 2023-01-05 - feat: Implement cost alerts
