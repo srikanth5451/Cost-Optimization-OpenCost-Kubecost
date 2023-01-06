@@ -10,3 +10,4 @@
 - Savings recommendations
 - Budget alerts
 # 2023-01-02 - chore: Refactor cost queries
+# 2023-01-06 - config: Adjust CPU cost rate
