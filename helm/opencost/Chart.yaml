@@ -3,3 +3,4 @@ name: opencost
 description: OpenCost Kubernetes cost monitoring
 version: 1.0.0
 # 2023-01-05 - fix: Correct pricing config
+# 2023-01-16 - docs: Update optimization guide
