@@ -12,3 +12,4 @@
 # 2023-01-02 - chore: Refactor cost queries
 # 2023-01-06 - config: Adjust CPU cost rate
 # 2023-01-13 - chore: Update OpenCost version
+# 2023-01-18 - config: Adjust CPU cost rate
