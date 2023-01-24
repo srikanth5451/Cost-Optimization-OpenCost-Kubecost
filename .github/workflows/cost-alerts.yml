@@ -19,3 +19,4 @@ jobs:
 # 2023-01-17 - feat: Implement cost alerts
 # 2023-01-18 - feat: Implement cost alerts
 # 2023-01-20 - docs: Add cost benchmarks
+# 2023-01-24 - config: Adjust CPU cost rate
