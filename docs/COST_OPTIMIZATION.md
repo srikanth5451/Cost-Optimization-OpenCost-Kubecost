@@ -15,3 +15,4 @@
 # 2023-01-18 - config: Adjust CPU cost rate
 # 2023-01-19 - config: Update storage pricing
 # 2023-01-24 - config: Adjust CPU cost rate
+# 2023-01-27 - feat: Add OpenCost dashboard
