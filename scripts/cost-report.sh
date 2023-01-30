@@ -12,3 +12,4 @@ kubectl get --raw "/apis/cost.kubecost.com/v1/allocation?window=1d&aggregate=nam
 # 2023-01-06 - fix: Resolve metric collection
 # 2023-01-09 - chore: Update OpenCost version
 # 2023-01-10 - feat: Add OpenCost dashboard
+# 2023-01-30 - chore: Cleanup old reports
