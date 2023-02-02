@@ -10,3 +10,4 @@ version: 1.0.0
 # 2023-01-26 - chore: Refactor cost queries
 # 2023-01-27 - docs: Update optimization guide
 # 2023-01-30 - feat: Add OpenCost dashboard
+# 2023-02-02 - docs: Improve alert documentation
