@@ -7,3 +7,4 @@ metadata:
 # 2023-01-19 - fix: Correct pricing config
 # 2023-02-01 - config: Modify alert thresholds
 # 2023-02-03 - chore: Refactor cost queries
+# 2023-02-06 - feat: Add OpenCost dashboard
