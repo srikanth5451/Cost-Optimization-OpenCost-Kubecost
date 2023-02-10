@@ -9,3 +9,4 @@ metadata:
 # 2023-02-03 - chore: Refactor cost queries
 # 2023-02-06 - feat: Add OpenCost dashboard
 # 2023-02-09 - config: Modify alert thresholds
+# 2023-02-10 - docs: Improve alert documentation
