@@ -17,3 +17,4 @@ kubectl get --raw "/apis/cost.kubecost.com/v1/allocation?window=1d&aggregate=nam
 # 2023-02-06 - feat: Create savings report
 # 2023-02-08 - chore: Update OpenCost version
 # 2023-02-14 - fix: Correct pricing config
+# 2023-02-14 - fix: Patch cost calculation
