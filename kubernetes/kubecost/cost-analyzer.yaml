@@ -7,10 +7,3 @@ data:
     CPU: 0.024
     RAM: 0.01
     storage: 0.0001
-# 2023-01-10 - chore: Cleanup old reports
-# 2023-02-06 - chore: Update OpenCost version
-# 2023-02-07 - chore: Cleanup old reports
-# 2023-02-07 - docs: Add cost benchmarks
-# 2023-02-08 - config: Update storage pricing
-# 2023-02-16 - config: Update storage pricing
-# 2023-02-17 - chore: Update OpenCost version
